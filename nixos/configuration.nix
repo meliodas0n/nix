@@ -141,9 +141,7 @@
   alacritty
   vscode
   rustup
-  nodejs_21
-  python310
-  python310Packages.pip
+  nodejs_22
   wofi
   dolphin
   hyprpaper
